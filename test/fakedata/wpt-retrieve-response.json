@@ -2112,8 +2112,8 @@
             "overallSavingsBytes": 0
           }
         },
-        "uses-webp-images": {
-          "id": "uses-webp-images",
+        "modern-image-formats": {
+          "id": "modern-image-formats",
           "title": "Serve images in next-gen formats",
           "description": "Image formats like JPEG 2000, JPEG XR, and WebP often provide better compression than PNG or JPEG, which means faster downloads and less data consumption. [Learn more](https://web.dev/uses-webp-images).",
           "score": 1,
@@ -2640,7 +2640,7 @@
               "group": "load-opportunities"
             },
             {
-              "id": "uses-webp-images",
+              "id": "modern-image-formats",
               "weight": 0,
               "group": "load-opportunities"
             },
@@ -4639,7 +4639,7 @@
           },
           {
             "startTime": 19308.53,
-            "name": "lh:audit:uses-webp-images",
+            "name": "lh:audit:modern-image-formats",
             "duration": 6.46,
             "entryType": "measure"
           },
@@ -5602,10 +5602,10 @@
             "audits[unused-css-rules].description"
           ],
           "lighthouse-core/audits/byte-efficiency/uses-webp-images.js | title": [
-            "audits[uses-webp-images].title"
+            "audits[modern-image-formats].title"
           ],
           "lighthouse-core/audits/byte-efficiency/uses-webp-images.js | description": [
-            "audits[uses-webp-images].description"
+            "audits[modern-image-formats].description"
           ],
           "lighthouse-core/audits/byte-efficiency/uses-optimized-images.js | title": [
             "audits[uses-optimized-images].title"
